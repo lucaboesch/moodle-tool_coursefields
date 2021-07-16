@@ -25,7 +25,7 @@
  defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'tool_coursefields';
-$plugin->version = 2021061300;
+$plugin->version = 2021071600;
 $plugin->release = 'v3.11-r1';
 $plugin->requires = 2021051700;
 $plugin->supported = [311, 311];
